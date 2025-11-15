@@ -37,7 +37,7 @@ Manual QA testing portfolio: test cases, checklist, and exploratory report for d
 ![Text Box Result](screenshots/text-box-result.png)
 *Результат отправки формы Text Box*
 
-![Check Box Selected](screenshots/checkbox-selected.png)
+![Check Box Selected](screenshots/checkbox_selected.png)
 *Выбор нескольких элементов в Check Box*
 
 ![Radio Button Selected](screenshots/radio-button-yes.png)
